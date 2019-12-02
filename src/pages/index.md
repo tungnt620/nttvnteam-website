@@ -9,15 +9,6 @@ sections:
     section_id: hero
     title: 'Hi, We''re NTTVN team'
     type: heroblock
-  - component: PortfolioBlock
-    layout_style: mosaic
-    num_projects_displayed: 9
-    section_id: latest-projects
-    subtitle: ''
-    title: Recent Work
-    type: portfolioblock
-    view_all_text: ''
-    view_all_url: ''
   - component: ServicesBlock
     section_id: services
     serviceslist:
